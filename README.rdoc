@@ -4,8 +4,6 @@
 
 Начальная страница: app/views/say/hello.html.haml
 
-Проект на херроку: https://arcane-savannah-9667.herokuapp.com/
-
 Разработчики:
 1. Талалаев Михаил
 2. Светлана Верхогляд
